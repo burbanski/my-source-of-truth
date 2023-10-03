@@ -1,0 +1,6 @@
+{
+  "name": "my-cluster-property",
+  "description": "Example of cluster property deployed from source of truth",
+  "hiddenProperty": false,
+  "value": "Hello Ben"
+}
